@@ -1,0 +1,1 @@
+var canRunAds = true; //This is a AdBlock test
