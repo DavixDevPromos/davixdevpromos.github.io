@@ -10,7 +10,7 @@ onload = async (event) =>  {
     $(".promo1").css("background-image", "url(" + promo1list[promo1Index] + ")");
 
     $(".promo1").click(function(){
-        window.open("https://www.youtube.com/");
+        window.open("https://wayaway.tp.st/Kci0juZg");
     });
 
     $(".promo2").click(promoClick);
