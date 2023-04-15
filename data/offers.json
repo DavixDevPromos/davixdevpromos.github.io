@@ -1,3 +1,177 @@
 {
-    "offers": []
+    "offers": {
+        "US" : {
+            "promo1" : [
+                "https://cdnnd.com/srv.html?id=5528229&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529345&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529357&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529331&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529342&pub=2563776"
+            ],
+            "promo2" : [
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=53533&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=48179&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=53524&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52932&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52931&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=53529&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=39551&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=39550&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=53536&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=52925&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=53523&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=52926&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=52932&tracking_id="
+            ]
+        },
+        "CA" : {
+            "promo1" : [
+                "https://cdndn.com/srv.html?id=5529182&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5521905&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529352&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5527534&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529357&pub=2563776",
+                "https://cdndn.com/srv.html?id=5528820&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529277&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5528842&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529342&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529122&pub=2563776"
+            ],
+            "promo2" : [
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=47779&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=53372&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=48872&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=48866&tracking_id=",
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=48864&tracking_id="
+            ]
+        },
+        "AU" : {
+            "promo1" : [
+                "https://cdnnd.com/srv.html?id=5529292&pub=2563776",
+                "https://cdndn.com/srv.html?id=5521905&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529352&pub=2563776",
+                "https://cdndn.com/srv.html?id=5528738&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529357&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529276&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5528842&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529342&pub=2563776"
+            ],
+            "promo2" : [
+                "https://froyomobile.com/show.php?l=0&u=1274358&id=45656&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=48433&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=48434&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52837&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52838&tracking_id="
+            ]
+            
+        },
+        "NZ" : {
+            "promo1" : [
+                "https://cdndn.com/srv.html?id=5529357&pub=2563776",
+                "https://cdndn.com/srv.html?id=5528842&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529342&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529122&pub=2563776"
+            ],
+            "promo2" : [
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=50263&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=50261&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=50267&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=37179&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=50268&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=39339&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=47735&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=39338&tracking_id=",
+            "https://playabledownload.com/show.php?l=0&u=1274358&id=51851&tracking_id="
+            ]
+        },
+        "GB" : {
+            "promo1" : [
+                "https://cdndn.com/srv.html?id=5521905&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529363&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529352&pub=2563776",
+                "https://cdndn.com/srv.html?id=5511823&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5527534&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529357&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529275&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5521620&pub=2563776",
+                "https://cdndn.com/srv.html?id=5528842&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5527176&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529342&pub=2563776"
+
+            ],
+            "promo2" : [
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52834&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53373&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53763&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53765&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53197&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=45685&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=45685&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53196&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=48895&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53198&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53764&tracking_id="
+            ]
+        },
+        "DE" : {
+            "promo1" : [
+                "https://cdndn.com/srv.html?id=5521997&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529183&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5511027&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5521905&pub=2563776",
+                "https://cdndn.com/srv.html?id=5521905&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529363&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529352&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529357&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529278&pub=2563776",
+                "https://cdndn.com/srv.html?id=5525404&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529342&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5528855&pub=2563776"
+            ],
+            "promo2" : [
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=33641&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53193&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=44788&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53195&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=48702&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53760&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53761&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53762&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53194&tracking_id="
+            ]
+        },
+        "FR" : {
+            "promo1" : [
+                "https://cdndn.com/srv.html?id=5529181&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529363&pub=2563776",
+                "https://cdndn.com/srv.html?id=5529357&pub=2563776",
+                "https://cdndn.com/srv.html?id=5525827&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5525829&pub=2563776",
+                "https://cdndn.com/srv.html?id=5528842&pub=2563776",
+                "https://cdnnd.com/srv.html?id=5529342&pub=2563776",
+                "https://cdndn.com/srv.html?id=5528455&pub=2563776"
+            ],
+            "promo2" : [
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=51891&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53271&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=51890&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52077&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=42280&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53272&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53109&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=51889&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53270&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=48898&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=53110&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=44905&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=42164&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=41010&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=44419&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=47297&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52937&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=44319&tracking_id=",
+                "https://playabledownload.com/show.php?l=0&u=1274358&id=52936&tracking_id="
+            ]
+        }
+    }
 }
