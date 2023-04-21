@@ -9,7 +9,7 @@ onload = async (event) =>  {
 
     if(countryCode in jsonOffers.offers){
         promos1 = jsonOffers.offers[countryCode].promo1;
-        promos2 = jsonOffers.offers[countryCode].promo2;
+        promos2 = jsonOffers.offers["All"].promo2;
         $(".promo2").click(promoClick);
     } else {
         $("#promoContainer1").attr('disabled','disabled');
@@ -157,7 +157,7 @@ function promoClick(){
                     if((!selected_promos2) ? promos1.length - indexes1.length != 0 : promos2.length - indexes2.length != 0)
                         $("#promoSubheading1").text("Remaining: " + ((!selected_promos2) ? (promos1.length - indexes1.length) : (promos2.length - indexes2.length)))
                     else
-                        $("#promoSubheading1").text((selected_promos2) ? "Try again next time" : "Try again?");
+                        $("#promoSubheading1").text((selected_promos2) ? "Try again next time" : "Want more?");
 
                     if(indexes1.length == promos1.length)
                         selected_promos2 = true;
